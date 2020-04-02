@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="hello_tiago">Hello Tiago</string>
+    <string name="button">Button</string>
+    <string name="default_hint">Type here</string>
+    <string name="default_text">Type something above</string>
+    <string name="btn_clear">Clear</string>
+    <string name="btn_submit">Submit</string>
+</resources>
